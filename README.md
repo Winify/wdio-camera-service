@@ -1,5 +1,11 @@
 # WebdriverIO Camera Service
 
+⚠️ Project Moved
+
+This project has been moved to the official WebDriverIO Community organization:
+
+https://github.com/webdriverio-community/wdio-camera-service
+
 A WebdriverIO service that enables camera feed injection for testing applications that use camera/video inputs. This service allows you to mock camera feeds with pre-recorded video files during automated testing.
 
 ## Features
